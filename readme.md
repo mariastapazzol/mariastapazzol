@@ -1,6 +1,4 @@
-### hii
+- Currently a trainee at Frengee <br>
+- Knowledge about HTML, CSS, JAVA, JAVASCRIPT, NODE.JS, SQL, REACT, NEXT.JE, TAILWIND and CMS WordPress.
 
-- I´m currently working at Frengee <br>
-- I´m currently learning HTML, CSS, JAVASCRIPT, NODEJS, SQL, REACT <br>
 
-@mmarialima.s
